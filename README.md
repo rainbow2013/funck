@@ -1,0 +1,2 @@
+# funck
+Funck = Func + Fuck
